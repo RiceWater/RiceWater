@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🍚💧 RiceWater 
+*`Developer Explorer & Machine Learning Enthusiast`*
+
+With a driven mindset to explore and continuously learn, I face challenges head-on to gain experience and create solutions to positively impact users. Currently, most repositories are projects from my tertiary education, so look forward into what I will be creating soon!
 
 <!--
 **RiceWater/RiceWater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
